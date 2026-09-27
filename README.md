@@ -1,5 +1,4 @@
 # Aegis – Financial Risk Orchestrator
-# https://github.com/your-org/aegis
 
 ## Quick Start
 
