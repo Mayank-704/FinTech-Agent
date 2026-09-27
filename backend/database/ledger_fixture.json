@@ -1,0 +1,113 @@
+{
+  "user": {
+    "user_id": "usr_alpha_992",
+    "name": "Demo User",
+    "monthly_income_net": 82000.00
+  },
+  "accounts": [
+    {
+      "account_id": "acc_chk_01",
+      "name": "Primary Checking",
+      "type": "depository",
+      "balance": 12500.50,
+      "currency": "INR"
+    },
+    {
+      "account_id": "acc_sav_02",
+      "name": "Emergency Fund",
+      "type": "depository",
+      "balance": 15000.00,
+      "currency": "INR"
+    },
+    {
+      "account_id": "acc_cc_03",
+      "name": "Rewards Credit Card",
+      "type": "credit",
+      "balance": -45000.00,
+      "interest_rate": 0.2499,
+      "currency": "INR"
+    }
+  ],
+  "transactions": [
+    {
+      "date": "2026-09-25",
+      "amount": 41000.00,
+      "merchant_name": "PAYROLL *TECH CORP IND",
+      "category": "Income"
+    },
+    {
+      "date": "2026-09-22",
+      "amount": -850.00,
+      "merchant_name": "ZOMATO *PUNJABI ZAIKA",
+      "category": "Dining"
+    },
+    {
+      "date": "2026-09-20",
+      "amount": -2499.00,
+      "merchant_name": "NYKAA MAN *RETAIL",
+      "category": "Shopping"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": -140.00,
+      "merchant_name": "UBER *MOTO",
+      "category": "Transportation"
+    },
+    {
+      "date": "2026-09-15",
+      "amount": -4500.00,
+      "merchant_name": "CC AUTOPAY *MIN DUE",
+      "category": "Debt Payment"
+    },
+    {
+      "date": "2026-09-12",
+      "amount": -950.00,
+      "merchant_name": "BMS *INOX PALASSIO",
+      "category": "Entertainment"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 41000.00,
+      "merchant_name": "PAYROLL *TECH CORP IND",
+      "category": "Income"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": -2100.00,
+      "merchant_name": "H&M ONLINE *8829A",
+      "category": "Shopping"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": -320.00,
+      "merchant_name": "NIVRA BEVERAGES *WATER",
+      "category": "Utilities"
+    },
+    {
+      "date": "2026-09-03",
+      "amount": -1200.00,
+      "merchant_name": "UBER *GO INTERCITY",
+      "category": "Transportation"
+    },
+    {
+      "date": "2026-09-01",
+      "amount": -22000.00,
+      "merchant_name": "GOMTI NAGAR MGMT *RENT",
+      "category": "Housing"
+    },
+    {
+      "date": "2026-08-28",
+      "amount": -1499.00,
+      "merchant_name": "AMZN MKTP IND *8X92B",
+      "category": "Shopping"
+    },
+    {
+      "date": "2026-08-25",
+      "amount": -999.00,
+      "merchant_name": "ZOMATO GOLD *MEMBER",
+      "category": "Subscriptions"
+    }
+  ]
+}
+
+
